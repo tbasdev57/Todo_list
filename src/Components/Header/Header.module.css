@@ -1,0 +1,23 @@
+header {
+	background-color: #fbfbff;
+	padding: 1rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+header h1 {
+	margin: 0;
+	color: #0b4f6c;
+}
+
+ul {
+	display: flex;
+	gap: 1rem;
+	align-items: center;
+	list-style: none;
+}
