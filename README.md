@@ -69,7 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-[![Stars](https://img.shields.io/github/stars/tbasdev57/Todo_list?style=social)](https://github.com/tbasdev57/Todo_list)
+
+[![Public Sponsor](https://img.shields.io/badge/Public_Sponsor-Yes-brightgreen)](https://example.com/link/to/public_sponsor)
+[![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-Yes-blueviolet)](https://example.com/link/to/pair_extraordinaire)
 [![Pull Requests](https://img.shields.io/github/issues-pr/tbasdev57/Todo_list)](https://github.com/tbasdev57/Todo_list/pulls)
+
 
 
